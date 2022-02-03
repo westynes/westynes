@@ -1,4 +1,4 @@
-````html
+````js
 class westynes{
   constructor(...options) {
     this.name = "Enes"
