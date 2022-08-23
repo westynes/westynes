@@ -1,8 +1,8 @@
 # Selam dostlarım
-- Adım Selim 18 yaşındayım
+- Adım Enes 17 yaşındayım
 - 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: selim#1337, [discord.gg/adresiniz](davet link)
-- Web Sitem: https://selim1337.vercel.app/
+- Discord adresim: -----, [discord.gg/adresiniz](davet link)
+- Web Sitem: -----
 - Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
 - Everything you can imagine is real -
 
@@ -11,4 +11,4 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](link)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](link)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADINIZ&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=westynes&show_icons=true)
