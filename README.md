@@ -1,9 +1,8 @@
-# Selam dostlarım
-- Adım Enes 17 yaşındayım
-- 4 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python, C++]
-- Discord adresim: -----, [discord.gg/adresiniz](davet link)
-- Web Sitem: -----
-- Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
+# Hello, I'm Enes (Westynes)
+- My name is Enes I am 17 years old.
+- I have been dealing with software and coding for 4 years. [html, php, javascript, css, python, C++]
+- Discord: -----, [discord.gg/adresiniz]
+- Web site: -----
 - Everything you can imagine is real -
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
